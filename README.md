@@ -1,3 +1,16 @@
 # Starfort
 
-Build the AI agents for social skills training, specifically serving neurodiverse people. 
+The AI-powered SEL platform for both ND and NT kids. 
+
+## Agents
+
+## AI Tutor for kids
+
+## AI Advisor for parents
+
+## Games
+
+## Readings
+
+## Writings
+
