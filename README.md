@@ -2,7 +2,7 @@
 
 An AI-driven education tech platform, focusing on social emotional learning and social sciences for primary school students.
 
-Starfort = agents + games + readings + writings
+Starfort = agents + games + stories + journals
 
 
 ## Agents
@@ -17,12 +17,14 @@ Starfort = agents + games + readings + writings
 
 our 3D educational games with AI-powered NPCs
 
-## Readings
+## Stories
 
-online story books created by our educational experts and writers
+online story books created by our educational experts or the parents
 
-## Writings
+## Journals
 
-family journals recorded by kids and parents together
+voice journals kept by the kids
+
+
 
 
