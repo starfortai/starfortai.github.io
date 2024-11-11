@@ -7,11 +7,7 @@ Starfort = agents + games + stories + journals
 
 ## Agents
 
-### AI Advisor for parents
-
-### AI Tutor for kids
-
-### AI NPCs in the games
+AI learning partners for children, and AI NPCs in the games
 
 ## Games
 
