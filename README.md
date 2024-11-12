@@ -1,8 +1,10 @@
 # Starfort
 
-An AI-driven EdTech platform built for primary school students, focusing on the enhancement of social competence, with special support for ND children.
+Starfort is an AI-driven EdTech platform built for primary school students, focusing on the enhancement of social competence, with special support for ND children.
 
-## Content
+It helps kids learn through edutaining contents and products.
+
+## Contents
 
 Starfort = social emotional learning (SEL) + social skills training (SST) + social sciences (e.g., Economics) +...
 
@@ -12,7 +14,7 @@ Starfort = social emotional learning (SEL) + social skills training (SST) + soci
 
 ### Econ
 
-## Technologies
+## Products
 
 Starfort = interactive stories + conversational AI characters
 
@@ -22,4 +24,4 @@ online interactive stories with AI-powered NPCs, created by our educational expe
 
 ### Agents
 
-the AI tutor and learning partner, and AI NPCs in the stories, converse with the kids.
+the AI tutor and AI NPCs in the stories interact with the kids.
