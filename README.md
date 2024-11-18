@@ -3,9 +3,9 @@
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路”
 
-我们创造引人入胜的“AI互动故事” - 即3D对话式AI游戏，作为主要内容载体：
-* 教育专家精心创作故事，星堡平台自动生成游戏
-* 各种角色的 AI NPC，与孩子对话、互动、指导及激励
+我们创造引人入胜的“AI互动故事”，作为主要内容载体：
+* 教育专家精心创作故事，星堡平台自动生成3D场景
+* 各种角色的AI伙伴，与孩子对话、互动、指导及激励
 * 经济与商业启蒙（星堡金币）
 
 以CASEL为理论基础，帮助ND/NT学生发展自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等重要的社会情感素养。
@@ -16,7 +16,7 @@
 * 云计算基础设施
 * 生成式语言语音视觉模型
 * 实时多模态多角色智能体
-* Unity游戏引擎
+* Unity 3D引擎
 
 关于我们：孩子父母 + 教育工作者 + 开发者
 
@@ -24,8 +24,8 @@
 
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
-We create engaging AI-powered interactive stories, i.e., 3D conversational AI games, for kids to read, play and chat.
-* Educational experts carefully create stories, and the Starfort platform automatically generates games.
+We create engaging AI-powered interactive stories for kids to read, play and chat.
+* Educational experts carefully create stories, and the Starfort platform automatically generates 3D scenes. 
 * AI NPCs of various roles can talk, interact, guide and inspire children.
 * Economic and business enlightenment (Starfort Coins).
 
@@ -37,7 +37,7 @@ Starfort technology stack:
 * Cloud computing infrastructure.
 * Generative language, speech and vision models.
 * Real-time multi-modal multi-role agents.
-* Unity game engine.
+* Unity 3D engine.
 
 About us: Parents of children + Educators + Developers
 
