@@ -13,7 +13,7 @@
 * 社交技能训练（SST），角色扮演、团队协作、冲突解决等等
 * 社会科学基础，采用寓教于乐的方式了解经济与社会
 
-面向小学生，支持中文和英语。在家庭、学校和干预中心的平板、笔记本及台式电脑、智能眼镜上使用，作为高质量、高效且经济的解决方案。
+面向小学生，支持中文和英语。在平板、笔记本及台式电脑、智能眼镜上使用，作为高质量、高效且经济的解决方案。
 
 星堡技术栈：
 * 云计算基础设施
@@ -37,7 +37,7 @@ Starfort Curriculum:
 * Social Skills Training (SST), including role-playing, teamwork, conflict resolution, and so on.
 * Basics of Social Sciences. Understand economy and society in an entertaining way.
 
-For primary school students, supporting Chinese and English. It is used on tablets, laptops and desktop computers, and smart glasses in families, schools and intervention centers as a high-quality, efficient and economical solution. 
+For primary school students, supporting Chinese and English. It is used on tablets, laptops and desktop computers, and smart glasses, as a high-quality, efficient and economical solution. 
 
 Starfort Technology Stack:
 * Cloud computing infrastructure.
@@ -45,6 +45,6 @@ Starfort Technology Stack:
 * Real-time multi-modal multi-role agents.
 * Unity 3D engine.
 
-About us: Parents of children + Educators + Developers
+About us: Parents of Children + Educators + Developers
 
 
