@@ -8,9 +8,12 @@
 * 各种角色的AI伙伴，与孩子对话、互动、指导及激励
 * 经济与商业启蒙（星堡金币）
 
-以CASEL为理论基础，帮助ND/NT学生发展自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等重要的社会情感素养。
+课程体系: 
+* 社会情感学习（SEL），基于CASEL理论框架，包括自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等
+* 社交技能训练（SST），角色扮演、团队协作、冲突解决等等
+* 社会科学基础，采用寓教于乐的方式了解经济与社会
 
-支持中英双语。在家庭、学校和干预中心的平板、笔记本及台式电脑、智能眼镜上使用，作为高质量、高效且经济的解决方案。
+面向小学生，支持中文和英语。在家庭、学校和干预中心的平板、笔记本及台式电脑、智能眼镜上使用，作为高质量、高效且经济的解决方案。
 
 星堡技术栈：
 * 云计算基础设施
@@ -29,11 +32,14 @@ We create engaging AI-powered interactive stories for kids to read, play and cha
 * AI NPCs of various roles can talk, interact, guide and inspire children.
 * Economic and business enlightenment (Starfort Coins).
 
-Based on the CASEL theory, Starfort helps ND/NT students develop important social and emotional literacy such as self-awareness, self-management, social consciousness, interpersonal skills and responsible decision-making ability.
+Starfort Curriculum:
+* Social Emotional Learning (SEL). Based on the CASEL theoretical framework, it includes self-awareness, self-management, social awareness, interpersonal skills, and responsible decision-making ability.
+* Social Skills Training (SST), including role-playing, teamwork, conflict resolution, and so on.
+* Basics of Social Sciences. Understand economy and society in an entertaining way.
 
-Support both Chinese and English. It is used on tablets, laptops and desktop computers, and smart glasses in families, schools and intervention centers as a high-quality, efficient and economical solution. 
+For primary school students, supporting Chinese and English. It is used on tablets, laptops and desktop computers, and smart glasses in families, schools and intervention centers as a high-quality, efficient and economical solution. 
 
-Starfort technology stack:
+Starfort Technology Stack:
 * Cloud computing infrastructure.
 * Generative language, speech and vision models.
 * Real-time multi-modal multi-role agents.
