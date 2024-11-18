@@ -39,6 +39,6 @@ Starfort technology stack:
 * Real-time multi-modal multi-role agents.
 * Unity game engine.
 
-About us: Parents of children + educators + designers + developers.
+About us: Parents of children + Educators + Developers
 
 
