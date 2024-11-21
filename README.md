@@ -1,38 +1,11 @@
 # Starfort: AI-powered EdTech Platform for Learning Social Skills
 
-"Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
-
-We create engaging AI-powered interactive stories for kids to read, play and chat.
-* Educational experts carefully create stories, and the Starfort platform automatically generates 3D scenes. 
-* AI agents of various roles such as coaches and neighbors can talk, interact, guide and inspire children.
-* Society, economics and business enlightenment (Starfort Coins).
-
-Starfort is built for primary school students, supporting Chinese and English. And it is used on tablets, laptops and desktop computers, and smart glasses, as a high-quality, efficient and economical solution. 
-
-Starfort Agents:
-* Education Advisors for parents
-* Social Coaches for kids
-* AI characters in stories
-
-Starfort Curriculum:
-* Social Emotional Learning (SEL). Based on the CASEL theoretical framework, it includes self-awareness, self-management, social awareness, interpersonal skills, and responsible decision-making ability.
-* Social Skills Training (SST), including role-playing, teamwork, conflict resolution, and so on.
-* Basics of Social Sciences. Help children understand economy and society in an entertaining way.
-
-Starfort Technology Stack:
-* Cloud computing infrastructure.
-* Generative language, speech and vision models.
-* Real-time multi-modal multi-role agents.
-* 3D engine and Web frontend. 
-
-About us: Parents of Children + Educators + Developers
-
 # 星语城堡：人工智能驱动的社交技能学习平台
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
-我们创造引人入胜的“AI互动故事”，作为主要内容载体：
-* 教育专家精心创作故事，星堡平台自动生成3D场景
+我们创造引人入胜的“AI互动故事”，以 3D AI 游戏作为主要的内容载体：
+* 教育专家或孩子父母设计故事，星堡平台自动生成游戏
 * 各种角色的智能体，如教练和邻居，与孩子对话、互动、指导及激励
 * 社会、经济与商业启蒙
 
@@ -56,3 +29,32 @@ About us: Parents of Children + Educators + Developers
 
 关于我们：孩子父母 + 教育工作者 + 开发者
 
+
+# Starfort is an AI-powered virtual world for social simulation
+
+"Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
+
+We create engaging AI-powered interactive stories as 3D AI games for kids to read, play and chat.
+* Educational experts or parents design stories, and the Starfort platform automatically generates games.
+* AI agents of various roles such as coaches and neighbors can talk, interact, guide and inspire children.
+* Society, economics and business enlightenment (Starfort Coins).
+
+Starfort is built for primary school students, supporting Chinese and English. And it is used on tablets, laptops and desktop computers, and smart glasses, as a high-quality, efficient and economical solution. 
+
+Starfort Agents:
+* Education Advisors for parents
+* Social Coaches for kids
+* AI characters in stories
+
+Starfort Curriculum:
+* Social Emotional Learning (SEL). Based on the CASEL theoretical framework, it includes self-awareness, self-management, social awareness, interpersonal skills, and responsible decision-making ability.
+* Social Skills Training (SST), including role-playing, teamwork, conflict resolution, and so on.
+* Basics of Social Sciences. Help children understand economy and society in an entertaining way.
+
+Starfort Technology Stack:
+* Cloud computing infrastructure.
+* Generative language, speech and vision models.
+* Real-time multi-modal multi-role agents.
+* 3D engine and Web frontend. 
+
+About us: Parents of Children + Educators + Developers
