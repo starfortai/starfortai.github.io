@@ -1,6 +1,6 @@
-# Starfort: AI-powered EdTech Platform for Learning Social Skills
+# Starfort: AI-powered EdTech Platform for SEL
 
-# 星语城堡：人工智能驱动的社会技能学习平台
+# 星语城堡：人工智能驱动的社会情感学习平台
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
@@ -12,16 +12,18 @@
 
 面向小学生，在小程序、浏览器、智能眼镜等平台上访问。支持中文和英语。
 
-星堡智能体：
-* 面向父母的教育顾问
-* 面向孩子的社交教练
-* 故事中的各种AI人物
 
 星堡课程体系: 
 * 社会情感学习，基于CASEL理论框架，包括自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等
 * 社交技能训练，角色扮演、团队协作、冲突解决等等
 * 社会科学基础，采用寓教于乐的方式了解经济与社会
 
+
+
+星堡智能体：
+* 面向父母的教育顾问
+* 面向孩子的社交教练
+* 故事中的各种AI人物
 
 星堡技术栈：
 * 云计算基础设施
@@ -37,7 +39,7 @@
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
 
-We create engaging AI-powered interactive stories as 3D AI games for kids to read, play and chat.
+We create engaging AI-powered interactive stories, i.e., 3D games + AI agents, for kids to read, play and chat.
 * Educational experts or parents design stories, and the Starfort platform automatically generates games.
 * AI agents of various roles such as coaches and neighbors can talk, interact, guide and inspire children.
 * Society, economics and business enlightenment (Starfort Coins).
@@ -46,18 +48,19 @@ We create engaging AI-powered interactive stories as 3D AI games for kids to rea
 Starfort is built for primary school students, and accessible on platforms such as mini-programs, browsers, and smart glasses. It supports Chinese and English.
 
 
-Starfort Agents:
-* Education Advisors for parents
-* Social Coaches for kids
-* AI characters in stories
-
 Starfort Curriculum:
 * Social Emotional Learning (SEL). Based on the CASEL theoretical framework, it includes self-awareness, self-management, social awareness, interpersonal skills, and responsible decision-making ability.
 * Social Skills Training (SST), including role-playing, teamwork, conflict resolution, and so on.
 * Basics of Social Sciences. Help children understand economy and society in an entertaining way.
 
 
-Starfort Technology Stack:
+Starfort Agents:
+* Education Advisors for parents
+* Social Coaches for kids
+* AI characters in stories
+
+
+Starfort Technology Stack: 
 * Cloud computing infrastructure.
 * Generative language, speech and vision models.
 * Real-time multi-modal multi-role agents.
