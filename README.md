@@ -1,16 +1,16 @@
-# Starfort: AI-powered Edutainment Platform for Social Emotional Learning
+# Starfort: AI-powered Platform for Social Emotional Learning
 
-# 星语城堡：人工智能驱动的社会情感学习平台
+# 星堡：人工智能驱动的社会情感学习平台
+
+面向小学生，支持中英双语。特别地，助力ND儿童的社交互动及语言发展。
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
-我们创造引人入胜的“AI互动故事”，以 3D AI 游戏作为教学内容的主要载体：
-* 教育专家或孩子父母设计故事，星堡平台自动生成游戏
-* 各种角色的智能体，如教练和邻居，与孩子对话、互动、指导及激励
-* 社会、经济与商业启蒙
-
-
-面向小学生，在小程序、浏览器、智能眼镜等平台上访问。支持中文和英语。
+星堡以“AI互动故事” - 对话式AI游戏，作为主要的内容载体：
+* 教育专家或孩子父母设计故事，平台生成游戏
+* 社交场景3D模拟，全局视角+第一视角
+* AI NPCs与孩子对话互动，AI教练则指导与鼓励
+* 激励机制与经济学启蒙
 
 
 星堡课程体系: 
@@ -35,17 +35,18 @@
 
 # Starfort is an AI-powered virtual world for social simulation
 
+Starfort is an AI-powered SEL platform built for primary school students, focusing on the enhancement of social competence, with special support for ND children. 
+
+It is accessible on platforms such as mini-programs, browsers, and smart glasses. It supports Chinese and English.
+
+
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
-
-We create engaging AI-powered interactive stories, i.e., 3D games with AI agents, for kids to read, play and chat.
-* Educational experts or parents design stories, and the Starfort platform automatically generates games.
-* AI agents of various roles such as coaches and neighbors can talk, interact, guide and inspire children.
-* Society, economics and business enlightenment (Starfort Coins).
-
-
-Starfort is built for primary school students, and accessible on platforms such as mini-programs, browsers, and smart glasses. It supports Chinese and English.
-
+We create engaging AI-powered interactive stories, i.e., conversational AI games, for kids to read, play and chat.
+* Educational experts or parents design stories, and the Starfort platform automatically generates games
+* 3D simulation of social scenes, global perspective + first-person perspective
+* AI NPCs interact and dialogue with children, while AI coaches provide guidance and encouragement
+* Incentive mechanism and economic enlightenment
 
 Starfort Curriculum:
 * Social Emotional Learning (SEL). Based on the CASEL theoretical framework, it includes self-awareness, self-management, social awareness, interpersonal skills, and responsible decision-making ability.
