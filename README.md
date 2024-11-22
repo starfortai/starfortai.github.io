@@ -1,4 +1,4 @@
-# Starfort: AI-powered EdTech Platform for SEL
+# Starfort: AI-powered Edutainment Platform for Social Emotional Learning
 
 # 星语城堡：人工智能驱动的社会情感学习平台
 
@@ -17,7 +17,6 @@
 * 社会情感学习，基于CASEL理论框架，包括自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等
 * 社交技能训练，角色扮演、团队协作、冲突解决等等
 * 社会科学基础，采用寓教于乐的方式了解经济与社会
-
 
 
 星堡智能体：
@@ -39,7 +38,7 @@
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
 
-We create engaging AI-powered interactive stories, i.e., 3D games + AI agents, for kids to read, play and chat.
+We create engaging AI-powered interactive stories, i.e., 3D games with AI agents, for kids to read, play and chat.
 * Educational experts or parents design stories, and the Starfort platform automatically generates games.
 * AI agents of various roles such as coaches and neighbors can talk, interact, guide and inspire children.
 * Society, economics and business enlightenment (Starfort Coins).
