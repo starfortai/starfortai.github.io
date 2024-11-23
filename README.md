@@ -1,4 +1,4 @@
-# Starfort: AI-powered Platform for Social Emotional Learning
+# Starfort: AI-powered Edutainment Platform for Social Emotional Learning
 
 # 星堡：人工智能驱动的社会情感学习平台
 
@@ -6,7 +6,7 @@
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
-星堡以“AI互动故事” - 对话式AI游戏，作为主要的内容载体：
+星堡以 “AI互动故事“ - 对话式AI游戏，作为主要的内容载体：
 * 教育专家或孩子父母设计故事，平台生成游戏
 * 社交场景3D模拟，全局视角+第一视角
 * AI NPCs与孩子对话互动，AI教练则指导与鼓励
@@ -67,3 +67,6 @@ Starfort Technology Stack:
 * Game engine and Web frontend. 
 
 About us: Parents of Children + Educators + Developers
+
+
+Starfort is founded by [Haifeng Liu](https://www.linkedin.com/in/haifeng-liu/)
