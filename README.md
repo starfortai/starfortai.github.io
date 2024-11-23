@@ -7,9 +7,9 @@
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
 星堡以 “AI互动故事“ - 对话式AI游戏，作为主要的内容载体：
-* 教育专家或孩子父母设计故事，平台生成游戏
+* 教育专家设计故事，平台生成游戏
 * 社交场景3D模拟，全局视角+第一视角
-* AI NPCs与孩子对话互动，AI教练则指导与鼓励
+* Agents as NPCs
 * 激励机制与经济学启蒙
 
 
@@ -43,9 +43,9 @@ It is accessible on platforms such as mini-programs, browsers, and smart glasses
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
 We create engaging AI-powered interactive stories, i.e., conversational AI games, for kids to read, play and chat.
-* Educational experts or parents design stories, and the Starfort platform automatically generates games
+* Educational experts design stories, and the Starfort platform automatically generates games
 * 3D simulation of social scenes, global perspective + first-person perspective
-* AI NPCs interact and dialogue with children, while AI coaches provide guidance and encouragement
+* Agents as NPCs, social partners interact and dialogue with children, while social coaches provide guidance and encouragement
 * Incentive mechanism and economic enlightenment
 
 Starfort Curriculum:
