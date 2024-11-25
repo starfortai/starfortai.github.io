@@ -1,21 +1,14 @@
 # Starfort: AI Games for Family Education
 
-## 星堡：人工智能驱动的家庭教育平台
+## 星堡：面向家庭教育的AI游戏平台
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
-星堡以 “AI互动故事“ - 对话式AI游戏，作为主要的内容载体：
-* 我们的教育专家或孩子父母精心设计故事，平台自动生成游戏
-* 社交场景模拟，全局视角+第一视角
-* Agents as NPCs
-* 激励机制与经济学启蒙
+星堡以“AI互动故事“作为主要的内容载体：教师或家长创作故事，星堡平台自动生成AI游戏 - Agents as NPCs，与孩子对话、互动、指导与激励。
 
-星堡课程体系：SEL, SST, ECON, CRC, et al. 
-
-
-面向小学生，支持中英双语。特别地，助力ND儿童的社交互动及语言发展。
-
-星堡智能体：父母的教育顾问，故事中的各种AI人物。
+面向中小学生，支持中英双语。
+以CASEL为理论基础，帮助孩子们发展自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等重要的社会情感素养。
+特别地，助力ND儿童的社交互动及语言发展。
 
 星堡技术栈：
 * 云计算基础设施
@@ -31,15 +24,12 @@
 
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
-We create engaging AI-powered interactive stories, i.e., conversational AI games, for kids to read, play and chat.
-* Educational experts design stories, and the Starfort platform automatically generates games
-* 3D simulation of social scenes, global perspective + first-person perspective
-* Agents as NPCs
-* Incentive mechanism and economic enlightenment
+Starfort delivers engaging AI-powered interactive stories for kids to read, play and chat.
+Educational experts or parents design stories, and the Starfort AI platform automatically generates conversational AI games - Agents as NPCs.
 
-Starfort Curriculum: SEL, SST, ECON, CRC, et al. 
+Starfort is an AI-powered family edutainment platform built for primary and middle school students.
 
-Starfort is an AI-powered family edutainment platform built for primary school students, focusing on the enhancement of social competence, with special support for ND children. 
+Based on the CASEL theory, it helps children develop important social and emotional literacy such as self-awareness, self-management, social consciousness, interpersonal skills, and responsible decision-making ability. In particular, it helps children with ND in social interaction and language development.
 
 It is accessible on platforms such as mini-programs, browsers, and smart glasses. It supports Chinese and English.
 
