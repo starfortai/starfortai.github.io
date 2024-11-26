@@ -3,7 +3,7 @@
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
 
-The Starfort AI platform transforms wonderful ideas from educators or parents of children into engaging AI-powered interactive stories, i.e., 3D narrative games with AI NPCs, for kids to read, play, and chat. Agents as NPCs, having conversations, interacting, guiding, and inspiring children.
+The Starfort AI platform transforms wonderful ideas from educators or parents of children into engaging AI-powered interactive stories, i.e., 3D narrative games with AI NPCs, for kids to read, play, and chat. Agents as NPCs interact with, guide, and inspire children.
 
 Starfort is an AI-powered family edutainment platform built for primary and middle school students, focusing on social emotional learning. 
 Based on the CASEL theory, it helps children develop important social and emotional literacy such as self-awareness, self-management, social consciousness, interpersonal skills, and responsible decision-making ability. 
