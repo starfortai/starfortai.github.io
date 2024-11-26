@@ -3,7 +3,7 @@
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
 
-The Starfort AI platform transforms wonderful ideas from educators or parents of children into engaging AI-powered interactive stories, i.e., 3D narrative games + AI NPCs, for kids to read, play, and chat. Agents as NPCs, having conversations, interacting, guiding, and inspiring children.
+The Starfort AI platform transforms wonderful ideas from educators or parents of children into engaging AI-powered interactive stories, i.e., 3D narrative games with AI NPCs, for kids to read, play, and chat. Agents as NPCs, having conversations, interacting, guiding, and inspiring children.
 
 Starfort is an AI-powered family edutainment platform built for primary and middle school students, focusing on social emotional learning. 
 Based on the CASEL theory, it helps children develop important social and emotional literacy such as self-awareness, self-management, social consciousness, interpersonal skills, and responsible decision-making ability. 
@@ -27,12 +27,11 @@ About us: Parents of Children + Educators + Developers
 
 Starfort is founded by [Haifeng Liu](https://www.linkedin.com/in/haifeng-liu/)
 
-## 星堡：面向家庭教育的AI游戏平台
+# 星堡：面向家庭教育的AI游戏平台
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
-教育工作者或孩子父母的精彩创意 --> 星堡AI平台 --> AI互动故事，即3D叙事游戏 + AI NPCs。
-Agents as NPCs，与孩子对话、互动、指导与激励。
+教育工作者或孩子父母的精彩创意 -> 星堡AI平台 -> AI互动故事，即内置AI NPCs的3D叙事游戏 - Agents as NPCs，与孩子对话、互动、指导与激励。
 
 面向中小学生，支持中英双语。寓教于乐，聚焦社会情感学习。
 以CASEL为理论基础，帮助孩子们发展自我认知、自我管理、社会意识、人际关系技能和负责任的决策能力等重要的社会情感素养。
