@@ -1,4 +1,4 @@
-# Starfort: AI Game Platform for Education
+# Starfort: AI Game Platform for Elementary Education
 
 "Stories are at the core of human experience, and every technological change paves the way for new forms of stories."
 
@@ -27,7 +27,7 @@ About us: Parents of Children + Educators + Developers
 
 Starfort is founded by [Haifeng Liu](https://www.linkedin.com/in/haifeng-liu/)
 
-# 星堡：面向教育的AI游戏平台
+# 星堡：基础教育人工智能游戏平台
 
 “故事是人类经验的核心，而每一次技术变革都为新的故事形式铺平了道路。”
 
