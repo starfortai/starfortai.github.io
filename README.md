@@ -67,9 +67,9 @@ Competitors include traditional therapy programs, educational apps, and other AI
 
 ### Team
 
-- **Founder & CEO:** Visionary leader with expertise in AI and education.
+- **Founder:**  [Haifeng](https://www.linkedin.com/in/haifeng-liu/)
 - **AI Development Team:** Specializing in NLP, emotional AI, and multimodal systems.
-- **Special Education Experts:** Ensuring neurodiverse needs are met effectively.
+- **Special Education Experts:** Top teachers with years of hands-on experience in this domain.
 - **Marketing and Sales:** Driving outreach and customer acquisition.
 
 ### Impact
