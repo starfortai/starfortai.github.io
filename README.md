@@ -3,7 +3,9 @@
 
 ### Executive Summary
 
-We aim to revolutionize support for neurodiverse (ND) children and their families by developing Social-Emotional Learning (SEL) AI agents. Our AI-driven solution will provide personalized, interactive, and empathetic support to enhance emotional intelligence, social skills, and overall well-being. These AI agents will bridge gaps in traditional education and therapy, offering accessible, adaptive, and scalable tools to empower ND children and their families.
+We aim to revolutionize support for neurodiverse (ND) children and their families by developing Social-Emotional Learning (SEL) AI agents: Advisors for parents, Coaches for kids, and Wearables for kids.
+
+Our AI-driven solution will provide personalized, interactive, and empathetic support to enhance emotional intelligence, social skills, and overall well-being. These AI agents will bridge gaps in traditional education and therapy, offering accessible, adaptive, and scalable tools to empower ND children and their families.
 
 ### Problem Statement
 
@@ -18,11 +20,17 @@ Our SEL AI agents are designed to:
 - Support families with actionable insights, training modules, and recommendations to improve caregiving strategies.
 - Integrate seamlessly into various platforms, including mobile apps, smart glasses, and 3D educational games.
 
+### Products
+
+* AI Advisor for parents
+* AI Wearable for kids
+* AI Social Coach for kids
+
 ### Target Market
 
 Our target market includes:
 
-- Families with neurodiverse children aged 4-12.
+- Families with neurodiverse children aged 4-15.
 - Schools and educational institutions focusing on special education.
 - Therapy and counseling centers.
 - Caregiver support organizations.
@@ -31,7 +39,7 @@ Our target market includes:
 
 Competitors include traditional therapy programs, educational apps, and other AI-driven learning platforms. Our unique value proposition lies in:
 
-- A specific focus on SEL for ND children.
+- A specific focus on SEL for ND children, Software + Hardware.
 - Cutting-edge AI tailored for emotional and social growth.
 - Multimodal engagement through various technologies.
 - Continuous support for families alongside children’s growth.
@@ -47,9 +55,9 @@ Competitors include traditional therapy programs, educational apps, and other AI
 
 ### Product Development
 
-1. **Phase 1:** Prototype development focusing on basic SEL interactions.
-2. **Phase 2:** Multimodal features integration (e.g., voice, visual aids, games).
-3. **Phase 3:** AI agents for caregivers, offering tailored guidance and resources.
+1. **Phase 1:** Prototype development of Advisor and Coach.
+2. **Phase 2:** Multimodal features integration, and knowledge augmentation.
+3. **Phase 3:** AI Wearable device.
 4. **Phase 4:** Launch and scale with community feedback loops.
 
 ### Marketing Strategy
@@ -67,7 +75,7 @@ Competitors include traditional therapy programs, educational apps, and other AI
 
 ### Team
 
-- **Founder:**  [Haifeng](https://www.linkedin.com/in/haifeng-liu/)
+- **Founder:**  [Harvey Lau](https://www.linkedin.com/in/haifeng-liu/)
 - **AI Development Team:** Specializing in NLP, emotional AI, and multimodal systems.
 - **Special Education Experts:** Top teachers with years of hands-on experience in this domain.
 - **Marketing and Sales:** Driving outreach and customer acquisition.
